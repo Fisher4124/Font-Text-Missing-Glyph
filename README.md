@@ -24,9 +24,9 @@ Download `Font-Text-Missing-Char.exe` from the [Releases](https://github.com/Fis
 
 ### 汉字字表<br>Hanzi TXTs
 
-[NightFurySL2001](https://github.com/NightFurySL2001)所提供的[汉字字表文件](https://github.com/NightFurySL2001/CJK-character-count?tab=readme-ov-file#currently-supported-encoding-standardstandardization-list-支援的编码标准汉字表)（TXT格式）。
+[NightFurySL2001](https://github.com/NightFurySL2001)所提供的[汉字字表文件](https://github.com/NightFurySL2001/cjktables)（TXT格式）。
 
-[Chinese character table](https://github.com/NightFurySL2001/CJK-character-count?tab=readme-ov-file#currently-supported-encoding-standardstandardization-list-支援的编码标准汉字表) (TXT files) by [NightFurySL2001](https://github.com/NightFurySL2001).
+[Chinese character table](https://github.com/NightFurySL2001/cjktables) (TXT files) by [NightFurySL2001](https://github.com/NightFurySL2001).
 
 
 
